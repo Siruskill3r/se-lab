@@ -89,8 +89,5 @@ public class GT4500 implements SpaceShip {
 
 }
 
-<<<<<<< HEAD
 //git gyakorlas branch-A
-=======
 // git gyakrolas branch-B
->>>>>>> branch-B
